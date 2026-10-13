@@ -6,7 +6,7 @@ LifeLink is a responsive blood donor directory, smart urgency triage, donor matc
 
 ## Live Links & Localhost Access
 
-- **Cloud Dev URL**: [Open Live App in Browser](https://ais-dev-rgzgxzwf4lqnty53xfaefq-979569117611.asia-southeast1.run.app)
+- **Cloud Dev URL**: [Open Live App in Browser](https://ai-project-woad-tau.vercel.app)
 - **Local Dev Server**: `http://localhost:3000`
 
 ---
