@@ -1,0 +1,6 @@
+{
+  "name": "LifeLink - Blood Donor Directory & Smart Alert System",
+  "description": "Responsive blood donor directory, smart urgency triage, donor matching engine, and localized alert dispatch for healthcare networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
